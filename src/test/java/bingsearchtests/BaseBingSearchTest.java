@@ -6,7 +6,7 @@ import enums.BrowserType;
 import static utils.BingConstants.*;
 import static utils.CommonConstants.*;
 
-public class BaseBingSearchTestSetup extends BaseTestSetup {
+public class BaseBingSearchTest extends BaseTestSetup {
 
     protected static void executeBingSearchTest(BrowserType browserType) {
 

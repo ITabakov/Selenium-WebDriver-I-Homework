@@ -8,7 +8,7 @@ import enums.BrowserType;
 import static utils.CommonConstants.*;
 import static utils.GoogleConstants.*;
 
-public class BaseGoogleSearchTestSetup extends BaseTestSetup {
+public class BaseGoogleSearchTest extends BaseTestSetup {
 
     protected static void executeGoogleSearchTest(BrowserType browserType) {
 

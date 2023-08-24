@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static enums.BrowserType.*;
 
 
-public class BingSearchWithEdgeHeadlessBrowserTest extends BaseBingSearchTestSetup {
+public class BingSearchWithEdgeHeadlessBrowserTest extends BaseBingSearchTest {
 
     @Test
     public void foundAsFirstResult_When_SearchTermProvided_Edge_Headless() {
